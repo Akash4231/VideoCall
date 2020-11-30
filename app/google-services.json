@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097486177311",
+    "firebase_url": "https://video-connect-app.firebaseio.com",
+    "project_id": "video-connect-app",
+    "storage_bucket": "video-connect-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097486177311:android:285623c96f8402934bb12a",
+        "android_client_info": {
+          "package_name": "com.example.videoconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097486177311-mfu10p59bst278i874714eshev63r70d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPchz4jHAUymFO3BQGFHw1G-DgAzsnNJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097486177311-mfu10p59bst278i874714eshev63r70d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
